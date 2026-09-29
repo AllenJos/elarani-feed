@@ -1,0 +1,9 @@
+{
+  "name": "elarani-feed",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "import-prices": "node --experimental-strip-types scripts/import-prices.mts feed.json",
+    "test": "node --test --experimental-strip-types tests/*.test.mts"
+  }
+}
