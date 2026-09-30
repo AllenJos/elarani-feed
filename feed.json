@@ -4,28 +4,8 @@
     "prices": false,
     "posts": true
   },
-  "updatedAt": "2026-09-29T20:32:46.444Z",
+  "updatedAt": "2026-09-30T18:02:18.784Z",
   "prices": [
-    {
-      "date": "2025-08-25",
-      "auctioneer": "Cardamom Planters' Association, Santhanpara",
-      "lots": 121,
-      "arrivedKg": 22655.6,
-      "soldKg": 22655.6,
-      "maxPrice": 2888,
-      "minPrice": 2258,
-      "avgPrice": 2496.45
-    },
-    {
-      "date": "2025-08-25",
-      "auctioneer": "Green House Cardamom Mktg.India Pvt. Ltd",
-      "lots": 330,
-      "arrivedKg": 88261.4,
-      "soldKg": 84887,
-      "maxPrice": 2958,
-      "minPrice": 2102,
-      "avgPrice": 2531.61
-    },
     {
       "date": "2025-08-26",
       "auctioneer": "IDUKKI MAHILA CARDAMOM PRODUCER COMPANY LIMITED",
@@ -6395,6 +6375,26 @@
       "maxPrice": 4070,
       "minPrice": 2617,
       "avgPrice": 3267.86
+    },
+    {
+      "date": "2026-09-30",
+      "auctioneer": "SOUTH INDIAN CARDAMOM ONLINE AUCTION PRIVATE LIMITED",
+      "lots": 287,
+      "arrivedKg": 83533.2,
+      "soldKg": 81147.2,
+      "maxPrice": 3760,
+      "minPrice": 2539,
+      "avgPrice": 3192.65
+    },
+    {
+      "date": "2026-09-30",
+      "auctioneer": "SUGANDHAGIRI SPICES PROMOTERS&TRADERS Pvt Ltd",
+      "lots": 316,
+      "arrivedKg": 125356.5,
+      "soldKg": 121546.5,
+      "maxPrice": 4013,
+      "minPrice": 2050,
+      "avgPrice": 3165.31
     }
   ],
   "posts": [
