@@ -4,28 +4,8 @@
     "prices": false,
     "posts": true
   },
-  "updatedAt": "2026-09-30T18:02:18.784Z",
+  "updatedAt": "2026-10-01T18:29:02.481Z",
   "prices": [
-    {
-      "date": "2025-08-26",
-      "auctioneer": "IDUKKI MAHILA CARDAMOM PRODUCER COMPANY LIMITED",
-      "lots": 281,
-      "arrivedKg": 73332.2,
-      "soldKg": 72981.8,
-      "maxPrice": 2980,
-      "minPrice": 2099,
-      "avgPrice": 2606.07
-    },
-    {
-      "date": "2025-08-26",
-      "auctioneer": "RNS SPICES",
-      "lots": 320,
-      "arrivedKg": 90098.8,
-      "soldKg": 89462.4,
-      "maxPrice": 2947,
-      "minPrice": 2002,
-      "avgPrice": 2581.59
-    },
     {
       "date": "2025-08-28",
       "auctioneer": "SOUTH INDIAN CARDAMOM ONLINE AUCTION PRIVATE LIMITED",
@@ -6395,6 +6375,26 @@
       "maxPrice": 4013,
       "minPrice": 2050,
       "avgPrice": 3165.31
+    },
+    {
+      "date": "2026-10-01",
+      "auctioneer": "CLIMATE NATURAL SPICES PRIVATE LIMITED",
+      "lots": 190,
+      "arrivedKg": 40199.6,
+      "soldKg": 38953.1,
+      "maxPrice": 3897,
+      "minPrice": 2299,
+      "avgPrice": 3124.91
+    },
+    {
+      "date": "2026-10-01",
+      "auctioneer": "THE CARDAMOM PLANTERS MARKETING CO-OPERATIVE SOCIETY LIMITED",
+      "lots": 300,
+      "arrivedKg": 103111.7,
+      "soldKg": 100591.7,
+      "maxPrice": 3854,
+      "minPrice": 2556,
+      "avgPrice": 3198.2
     }
   ],
   "posts": [
