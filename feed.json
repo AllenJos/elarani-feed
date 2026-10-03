@@ -4,28 +4,8 @@
     "prices": false,
     "posts": true
   },
-  "updatedAt": "2026-10-01T18:29:02.481Z",
+  "updatedAt": "2026-10-03T16:32:33.234Z",
   "prices": [
-    {
-      "date": "2025-08-28",
-      "auctioneer": "SOUTH INDIAN CARDAMOM ONLINE AUCTION PRIVATE LIMITED",
-      "lots": 348,
-      "arrivedKg": 98117.9,
-      "soldKg": 96898.6,
-      "maxPrice": 2920,
-      "minPrice": 2143,
-      "avgPrice": 2494.48
-    },
-    {
-      "date": "2025-08-28",
-      "auctioneer": "The Kerala Cardamom Processing and Marketing Company Limited, Thekkady",
-      "lots": 284,
-      "arrivedKg": 80357.5,
-      "soldKg": 79286.7,
-      "maxPrice": 2934,
-      "minPrice": 1702,
-      "avgPrice": 2497.29
-    },
     {
       "date": "2025-08-29",
       "auctioneer": "CARDAMOM GROWERSFOREVER PRIVATE LIMITED",
@@ -6395,6 +6375,26 @@
       "maxPrice": 3854,
       "minPrice": 2556,
       "avgPrice": 3198.2
+    },
+    {
+      "date": "2026-10-03",
+      "auctioneer": "IDUKKI Dist.TRADITIONAL CARDAMOM PRODUCER COMPANY Ltd",
+      "lots": 273,
+      "arrivedKg": 76197.5,
+      "soldKg": 74852.6,
+      "maxPrice": 3793,
+      "minPrice": 2608,
+      "avgPrice": 3187.12
+    },
+    {
+      "date": "2026-10-03",
+      "auctioneer": "Spice More Trading Company, Kumily",
+      "lots": 287,
+      "arrivedKg": 121839.7,
+      "soldKg": 120168.8,
+      "maxPrice": 3705,
+      "minPrice": 2510,
+      "avgPrice": 3189
     }
   ],
   "posts": [
