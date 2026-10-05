@@ -4,48 +4,8 @@
     "prices": false,
     "posts": true
   },
-  "updatedAt": "2026-10-03T16:32:33.234Z",
+  "updatedAt": "2026-10-05T20:41:57.580Z",
   "prices": [
-    {
-      "date": "2025-08-29",
-      "auctioneer": "CARDAMOM GROWERSFOREVER PRIVATE LIMITED",
-      "lots": 156,
-      "arrivedKg": 24616.9,
-      "soldKg": 23389.1,
-      "maxPrice": 2885,
-      "minPrice": 2015,
-      "avgPrice": 2433.62
-    },
-    {
-      "date": "2025-08-29",
-      "auctioneer": "SPECIALITY INDIAN FOOD PARKS EXPORTS PRIVATE LIMITED",
-      "lots": 376,
-      "arrivedKg": 106593.5,
-      "soldKg": 100367.1,
-      "maxPrice": 3099,
-      "minPrice": 1754,
-      "avgPrice": 2506.07
-    },
-    {
-      "date": "2025-08-30",
-      "auctioneer": "IDUKKI Dist.TRADITIONAL CARDAMOM PRODUCER COMPANY Ltd",
-      "lots": 292,
-      "arrivedKg": 77587.8,
-      "soldKg": 76725,
-      "maxPrice": 2998,
-      "minPrice": 1714,
-      "avgPrice": 2485.27
-    },
-    {
-      "date": "2025-08-30",
-      "auctioneer": "SUGANDHAGIRI SPICES PROMOTERS&TRADERS Pvt Ltd",
-      "lots": 390,
-      "arrivedKg": 109318.2,
-      "soldKg": 106896.3,
-      "maxPrice": 3217,
-      "minPrice": 1615,
-      "avgPrice": 2465.37
-    },
     {
       "date": "2025-09-01",
       "auctioneer": "CLIMATE NATURAL SPICES PRIVATE LIMITED",
@@ -6395,6 +6355,26 @@
       "maxPrice": 3705,
       "minPrice": 2510,
       "avgPrice": 3189
+    },
+    {
+      "date": "2026-10-05",
+      "auctioneer": "Header Systems (India) Limited, Nedumkandam",
+      "lots": 327,
+      "arrivedKg": 114634.6,
+      "soldKg": 107621.2,
+      "maxPrice": 3606,
+      "minPrice": 2634,
+      "avgPrice": 3171.66
+    },
+    {
+      "date": "2026-10-05",
+      "auctioneer": "Mas Enterprises, Vandanmettu",
+      "lots": 436,
+      "arrivedKg": 148054.5,
+      "soldKg": 129569.7,
+      "maxPrice": 4374,
+      "minPrice": 2706,
+      "avgPrice": 3271.82
     }
   ],
   "posts": [
