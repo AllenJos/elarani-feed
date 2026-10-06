@@ -4,7 +4,7 @@
     "prices": false,
     "posts": true
   },
-  "updatedAt": "2026-10-05T20:41:57.580Z",
+  "updatedAt": "2026-10-06T18:30:04.548Z",
   "prices": [
     {
       "date": "2025-09-01",
@@ -6375,6 +6375,26 @@
       "maxPrice": 4374,
       "minPrice": 2706,
       "avgPrice": 3271.82
+    },
+    {
+      "date": "2026-10-06",
+      "auctioneer": "Cardamom Planters' Association, Santhanpara",
+      "lots": 146,
+      "arrivedKg": 34163,
+      "soldKg": 31753.2,
+      "maxPrice": 3836,
+      "minPrice": 2464,
+      "avgPrice": 3080.16
+    },
+    {
+      "date": "2026-10-06",
+      "auctioneer": "South Indian Green Cardamom Company Ltd, Kochi",
+      "lots": 313,
+      "arrivedKg": 104576.7,
+      "soldKg": 102427.2,
+      "maxPrice": 3662,
+      "minPrice": 2542,
+      "avgPrice": 3203.83
     }
   ],
   "posts": [
