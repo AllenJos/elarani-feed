@@ -4,28 +4,8 @@
     "prices": false,
     "posts": true
   },
-  "updatedAt": "2026-10-06T18:30:04.548Z",
+  "updatedAt": "2026-10-07T18:59:51.825Z",
   "prices": [
-    {
-      "date": "2025-09-01",
-      "auctioneer": "CLIMATE NATURAL SPICES PRIVATE LIMITED",
-      "lots": 96,
-      "arrivedKg": 18662.2,
-      "soldKg": 18297.4,
-      "maxPrice": 2816,
-      "minPrice": 2202,
-      "avgPrice": 2466.97
-    },
-    {
-      "date": "2025-09-01",
-      "auctioneer": "Header Systems (India) Limited, Nedumkandam",
-      "lots": 226,
-      "arrivedKg": 57235.2,
-      "soldKg": 56032.4,
-      "maxPrice": 2856,
-      "minPrice": 2206,
-      "avgPrice": 2504.09
-    },
     {
       "date": "2025-09-02",
       "auctioneer": "Mas Enterprises, Vandanmettu",
@@ -6395,6 +6375,26 @@
       "maxPrice": 3662,
       "minPrice": 2542,
       "avgPrice": 3203.83
+    },
+    {
+      "date": "2026-10-07",
+      "auctioneer": "Green House Cardamom Mktg.India Pvt. Ltd",
+      "lots": 302,
+      "arrivedKg": 90752.2,
+      "soldKg": 82488.3,
+      "maxPrice": 3644,
+      "minPrice": 2415,
+      "avgPrice": 3146.34
+    },
+    {
+      "date": "2026-10-07",
+      "auctioneer": "The Kerala Cardamom Processing and Marketing Company Limited, Thekkady",
+      "lots": 305,
+      "arrivedKg": 114670.7,
+      "soldKg": 111102.7,
+      "maxPrice": 3780,
+      "minPrice": 2452,
+      "avgPrice": 3202.65
     }
   ],
   "posts": [
