@@ -4,28 +4,8 @@
     "prices": false,
     "posts": true
   },
-  "updatedAt": "2026-10-07T18:59:51.825Z",
+  "updatedAt": "2026-10-08T18:55:41.368Z",
   "prices": [
-    {
-      "date": "2025-09-02",
-      "auctioneer": "Mas Enterprises, Vandanmettu",
-      "lots": 357,
-      "arrivedKg": 99458.6,
-      "soldKg": 98910.5,
-      "maxPrice": 3092,
-      "minPrice": 1858,
-      "avgPrice": 2510.96
-    },
-    {
-      "date": "2025-09-02",
-      "auctioneer": "South Indian Green Cardamom Company Ltd, Kochi",
-      "lots": 323,
-      "arrivedKg": 86445.1,
-      "soldKg": 84963.7,
-      "maxPrice": 2835,
-      "minPrice": 1968,
-      "avgPrice": 2492.21
-    },
     {
       "date": "2025-09-03",
       "auctioneer": "Spice More Trading Company, Kumily",
@@ -6395,6 +6375,26 @@
       "maxPrice": 3780,
       "minPrice": 2452,
       "avgPrice": 3202.65
+    },
+    {
+      "date": "2026-10-08",
+      "auctioneer": "IDUKKI MAHILA CARDAMOM PRODUCER COMPANY LIMITED",
+      "lots": 302,
+      "arrivedKg": 83665.5,
+      "soldKg": 79898.7,
+      "maxPrice": 4014,
+      "minPrice": 2502,
+      "avgPrice": 3208.63
+    },
+    {
+      "date": "2026-10-08",
+      "auctioneer": "RNS SPICES",
+      "lots": 450,
+      "arrivedKg": 151299,
+      "soldKg": 146212.1,
+      "maxPrice": 4020,
+      "minPrice": 2502,
+      "avgPrice": 3266.56
     }
   ],
   "posts": [
